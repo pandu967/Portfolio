@@ -1,6 +1,11 @@
 div {
-		background-color : rgb(241,220,174);
+	background-color : rgb(241,220,174);
 }
+header{
+	color : rgb(144,29,63);
+	 font-size : 50px;
+	 text-align : center;
+	}
 p {
 	font-family : Apple Chancery,cursive;
 	font-style : oblique;
@@ -20,6 +25,11 @@ img:hover {
 	padding : 5px;
 	border-radius : 7px;
 	background-color : darkred;
+}
+img{
+	height : auto;
+	width : 100%;
+	display : block;
 }
 .img1,.img2,.img3,.img4,.img5,.img6,.img7,.img8 {
 	box-shadow : 10px 10px 8px #888888;
